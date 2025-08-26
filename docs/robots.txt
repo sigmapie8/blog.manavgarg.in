@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.manavgarg.in/sitemap.xml
+Sitemap: https://manavgarg.in/sitemap.xml
