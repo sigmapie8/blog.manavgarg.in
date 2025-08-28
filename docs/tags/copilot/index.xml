@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>https://manavgarg.in/</link>
-    <description>Recent content on </description>
+    <title>Copilot on </title>
+    <link>https://manavgarg.in/tags/copilot/</link>
+    <description>Recent content in Copilot on </description>
     <image>
       <title></title>
       <url>https://manavgarg.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Aug 2025 19:22:55 +0000</lastBuildDate>
-    <atom:link href="https://manavgarg.in/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://manavgarg.in/tags/copilot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Your Agent Wait</title>
       <link>https://manavgarg.in/posts/2025-08-28-making-your-agent-wait/</link>
@@ -20,13 +20,6 @@
       <guid>https://manavgarg.in/posts/2025-08-28-making-your-agent-wait/</guid>
       <description>&lt;p&gt;It may sound counterintuitive to make an agent wait. After all, we want our agents to be as fast and responsive as possible. However, there are scenarios where a delay is necessary, such as waiting for a long-running process to complete or for data to be returned from a slow API. It has been observed that many AI agents are not designed to handle long delays.&lt;/p&gt;
 &lt;p&gt;Try the following prompt with your agent:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://manavgarg.in/post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://manavgarg.in/post/</guid>
-      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>

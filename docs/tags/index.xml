@@ -11,8 +11,78 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 19:22:55 +0000</lastBuildDate>
     <atom:link href="https://manavgarg.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent</title>
+      <link>https://manavgarg.in/tags/agent/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://manavgarg.in/tags/ai/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Agents</title>
+      <link>https://manavgarg.in/tags/ai-agents/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/ai-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ArtificialIntelligence</title>
+      <link>https://manavgarg.in/tags/artificialintelligence/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/artificialintelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copilot</title>
+      <link>https://manavgarg.in/tags/copilot/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/copilot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fastmcp</title>
+      <link>https://manavgarg.in/tags/fastmcp/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/fastmcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gemini</title>
+      <link>https://manavgarg.in/tags/gemini/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/gemini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mcp</title>
+      <link>https://manavgarg.in/tags/mcp/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/mcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://manavgarg.in/tags/python/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://manavgarg.in/tags/tutorial/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/tags/tutorial/</guid>
+      <description></description>
+    </item>
     <item>
       <title>First</title>
       <link>https://manavgarg.in/tags/first/</link>

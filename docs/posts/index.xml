@@ -11,7 +11,15 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 19:22:55 +0000</lastBuildDate>
     <atom:link href="https://manavgarg.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Your Agent Wait</title>
+      <link>https://manavgarg.in/posts/2025-08-28-making-your-agent-wait/</link>
+      <pubDate>Thu, 28 Aug 2025 19:22:55 +0000</pubDate>
+      <guid>https://manavgarg.in/posts/2025-08-28-making-your-agent-wait/</guid>
+      <description>&lt;p&gt;It may sound counterintuitive to make an agent wait. After all, we want our agents to be as fast and responsive as possible. However, there are scenarios where a delay is necessary, such as waiting for a long-running process to complete or for data to be returned from a slow API. It has been observed that many AI agents are not designed to handle long delays.&lt;/p&gt;
+&lt;p&gt;Try the following prompt with your agent:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
