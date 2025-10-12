@@ -1,0 +1,99 @@
+baseURL: https://manavgarg.in/
+languageCode: en-us
+title: Manav Garg @sigmapie8
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Search
+      pageRef: /search
+      weight: 10
+    - name: Posts
+      pageRef: /posts
+      weight: 10
+cover:
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Manav Garg @sigmapie8
+  description: "Personal blog @sigmapie8. Talks about technology, programming, and personal experiences. Opinions are his own."
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Manav  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: true
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+  profileMode:
+      enabled: true 
+      title: Manav Garg @sigmapie8
+      subtitle: "Software | Stories | Psychology"
+      imageUrl: ../assets/manav.png
+      imageWidth: 256
+      imageHeight: 256
+      imageTitle: manav
+      # buttons:
+      #   - name: Posts
+      #     url: posts
+        # - name: Tags
+        #   url: tags
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/sigmapie8"
+    - name: github
+      url: "https://github.com/sigmapie8"
+    - name: medium
+      url: "https://medium.com/@sigmapie8"
+    - name: x
+      url: "https://x.com/sigmapie8"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/8414124/sigmapie8"
+
+
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # necessary for search
