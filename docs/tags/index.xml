@@ -1,18 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Manav Garg @sigmapie8</title>
     <link>https://manavgarg.in/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Manav Garg @sigmapie8</description>
     <image>
-      <title></title>
+      <title>Manav Garg @sigmapie8</title>
       <url>https://manavgarg.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://manavgarg.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2025 19:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 23:26:36 +0530</lastBuildDate>
     <atom:link href="https://manavgarg.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dasara</title>
+      <link>https://manavgarg.in/tags/dasara/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/dasara/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electric</title>
+      <link>https://manavgarg.in/tags/electric/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/electric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ev</title>
+      <link>https://manavgarg.in/tags/ev/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/ev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://manavgarg.in/tags/experience/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobility</title>
+      <link>https://manavgarg.in/tags/mobility/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/mobility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysore</title>
+      <link>https://manavgarg.in/tags/mysore/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/mysore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysuru</title>
+      <link>https://manavgarg.in/tags/mysuru/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/mysuru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startup</title>
+      <link>https://manavgarg.in/tags/startup/</link>
+      <pubDate>Fri, 10 Oct 2025 23:26:36 +0530</pubDate>
+      <guid>https://manavgarg.in/tags/startup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agent</title>
       <link>https://manavgarg.in/tags/agent/</link>
