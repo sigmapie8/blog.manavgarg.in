@@ -1,6 +1,6 @@
 ---
 date: '2025-11-08T22:06:15+05:30'
-title: 'Book Review the Practicing Mind'
+title: 'Book Review the Practicing Mind by Thomas M. Sterner'
 preview: "At what point in a flower's life, from seed to full bloom, does it reach perfection?..."
 draft: false
 ShowToc: false
@@ -26,8 +26,6 @@ keywords:
     - habits
     - discipline
 ---
-
-# Book Review: The Practicing Mind by Thomas M. Sterner
 
 I have a new ritual these days — every time I go to an airport I buy a book and make a promise: the next time I'm here I'll have read it. That way I can buy another book.
 
